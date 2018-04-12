@@ -4,6 +4,7 @@ Soy una UX Designer egresada de Laboratoria
 
 ## Portafolio
 
+![solucion](https://user-images.githubusercontent.com/32859023/38707387-cb62c1a8-3e76-11e8-9160-82e82e2b741d.png)
 
 
 ## Contacto
